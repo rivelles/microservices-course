@@ -1,0 +1,3 @@
+com\lucasrivelles\photoapp\api\gateway\security\AuthorizationFilter.class
+com\lucasrivelles\photoapp\api\gateway\PhotoAppZuulApiGatewayApplication.class
+com\lucasrivelles\photoapp\api\gateway\security\WebSecurity.class
